@@ -1,0 +1,1 @@
+-keep class ma.gestion.stock.data.** { *; }
